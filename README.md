@@ -1,7 +1,5 @@
-freeCodeCamp 繁中化計畫聚會記錄
+歡迎加入 FreeCodeCamp 繁中化計畫 
 ===
-
-## 歡迎加入 FreeCodeCamp 繁中化計畫 
 
 * 發起人：Ryan 👏🏻
 * FB社團：搜尋「FreeCodeCamp 繁中化計畫」
@@ -17,8 +15,9 @@ freeCodeCamp 繁中化計畫聚會記錄
 | 2018/04/18    | [Free Code Camp 繁中計畫 第一次讀書會](https://prezi.com/p/74gmpuqcd7re/free-code-camp/) | Ryan |
 | 2018/04/25    | [系統組介紹](https://docs.google.com/presentation/d/1G2Au1tcUb4UC8jBkl0Kex0WGtHufyENk66hZEtRdhvw/edit) | Kerwin |
 | 2018/04/25 | Growth Hacking | Low Paguo |
+| 2018/05/02 | HTML5 and CSS | LeeBoy |
 
 ## 待分享 (牛棚)
 | 時間        | 主題 & 連結           | 講者  |
 |:------------- |:-------------:|:-----:|
-| | [asynchronous in JS](https://hackmd.io/s/BkM1yR3nM) | Boy |
+| | [asynchronous in JS](https://hackmd.io/s/BkM1yR3nM) | LeeBoy |
