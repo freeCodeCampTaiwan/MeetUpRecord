@@ -17,6 +17,7 @@
 | 2018/04/25 | [Growth Hacking](https://freecodecampclub.slack.com/files/UA9QPKB3Q/FAH8R9QPN/freecodecampnew.pptx) | Low Paguo |
 | 2018/05/02 | [HTML5 and CSS](https://hackmd.io/p/S17Ea_-6f#/) | LeeBoy |
 | 2018/05/09 | [如何能寫出有力量的CSS](https://paper.dropbox.com/doc/FreeCodeCamp-4-CSS-Et3TNoW1DRrAfCQFzfned#:h2=FreeCodeCamp-#4-CSS) | Askie |
+| 2018/05/11 | [CSS中階基本概念介紹](#) | 老江 |
 
 ## 待分享 (牛棚)
 | 時間        | 主題 & 連結           | 講者  |
