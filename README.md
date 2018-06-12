@@ -19,6 +19,8 @@
 | 2018/05/09 | [如何能寫出有力量的CSS](https://paper.dropbox.com/doc/FreeCodeCamp-4-CSS-Et3TNoW1DRrAfCQFzfned#:h2=FreeCodeCamp-#4-CSS) | Askie |
 | 2018/05/16 | [CSS 基本日常 Part.2](https://freecodecampclub.slack.com/files/UA8TNJ3C2/FAQN27EFL/css______.pptx) | 老江 |
 | 2018/05/23 | [Mono小夥伴 為你自己學Git](https://hackmd.io/s/HykzbF0Af) | JIMY |
+| 2018/05/30 | 自由分享與交流 |  |
+| 2018/06/06 | [JavaScript分享](https://files.slack.com/files-pri/TA7SXRHSA-FB4L36Q7N/javascript.pdf) | SimonAllen |
 
 ## 待分享 (牛棚)
 | 時間        | 主題 & 連結           | 講者  |
