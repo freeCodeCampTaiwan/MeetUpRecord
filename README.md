@@ -21,6 +21,7 @@
 | 2018/05/23 | [Mono小夥伴 為你自己學Git](https://hackmd.io/s/HykzbF0Af) | JIMY |
 | 2018/05/30 | 自由分享與交流 |  |
 | 2018/06/06 | [JavaScript分享](https://files.slack.com/files-pri/TA7SXRHSA-FB4L36Q7N/javascript.pdf) | SimonAllen |
+| 2018/06/14 | [前端起步走](https://hackmd.io/s/BJM0P4Aem) | LeeBoy |
 
 ## 待分享 (牛棚)
 | 時間        | 主題 & 連結           | 講者  |
