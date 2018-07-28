@@ -23,6 +23,11 @@
 | 2018/06/06 | [JavaScript分享](https://files.slack.com/files-pri/TA7SXRHSA-FB4L36Q7N/javascript.pdf) | SimonAllen |
 | 2018/06/14 | [前端起步走](https://hackmd.io/s/BJM0P4Aem) | LeeBoy |
 | 2018/06/21 | [響應式網頁設計](https://freecodecampclub.slack.com/files/UACU4P2DB/FBA3WM1PS/rwd_ppt.pptx)| 菀婷 |
+| 2018/06/28 | [響應式網頁設計2]()| 菀婷 |
+| 2018/07/04 | [jQuery入門介紹]() | Ryan |
+| 2018/07/11 | [前端最火熱的框架 Bootstrap]() | 蔡煜翔 |
+| 2018/07/18 | [克服前端工程的技術障礙與門檻之路]() | Chuyi Huang |
+| 2018/07/25 | [git 基礎及應用]() | 江維明 |
 
 ## 待分享 (牛棚)
 | 時間        | 主題 & 連結           | 講者  |
